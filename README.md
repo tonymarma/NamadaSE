@@ -79,7 +79,7 @@ For support or inquiries related to the Namada Shielded Expedition Android App, 
 
 ## License
 
-The Namada Shielded Expedition Android App is released under the [LICENSE](https://github.com/tonymarma/NamadaSE/LICENSE) license.
+The Namada Shielded Expedition Android App is released under the [LICENSE](https://github.com/tonymarma/NamadaSE/blob/main/LICENSE) license.
 
 ## Acknowledgements
 
