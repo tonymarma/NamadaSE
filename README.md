@@ -28,17 +28,42 @@ Users can access a list of validators within the Namada blockchain network throu
 
 The NEBB dashboard provides users with a comprehensive overview of the Namada Shielded Expedition. Users can view rankings of participants, track their performance, and access additional insights related to the campaign.
 
+Sure, here's a simplified version focusing only on the "Getting Started" section:
+
+---
+
 ## Getting Started
 
-To get started with the Namada Shielded Expedition Android App, follow these steps:
+To begin using the Namada Shielded Expedition App, follow these steps:
 
-1. Clone the GitHub repository containing the source code of the Android Studio project.
+1. **Clone the Repository**: 
+   Clone the GitHub repository containing the source code of the Flutter project to your local machine.
 
-2. Open the project in Android Studio.
+2. **Install Flutter**: 
+   Ensure that you have Flutter installed on your machine. You can download and install Flutter from the official Flutter website if you haven't already done so.
 
-3. Build and run the project on an Android device or emulator.
+3. **Open the Project**: 
+   Open the project directory in your preferred code editor or IDE.
 
-4. Explore the various features of the app, including the block explorer, governance proposals, transactions, validators list, and NEBB dashboard.
+4. **Install Dependencies**: 
+   Run the following command in the terminal to install the project dependencies:
+   ```
+   flutter pub get
+   ```
+
+5. **Run the App**: 
+   Connect your Android or iOS device to your machine or launch an emulator. Then, run the following command to build and launch the app:
+   ```
+   flutter run
+   ```
+
+6. **Explore Features**: 
+   Once the app is running, explore the various features it offers including the block explorer, governance proposals, transactions, validators list, and NEBB dashboard.
+
+That's it! You're now ready to use the Namada Shielded Expedition App.
+
+---
+
 
 ## Contributing
 
