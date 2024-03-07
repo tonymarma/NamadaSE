@@ -43,7 +43,7 @@ To begin using the Namada Shielded Expedition App, follow these steps:
    Ensure that you have Flutter installed on your machine. You can download and install Flutter from the official Flutter website if you haven't already done so.
 
 3. **Open the Project**: 
-   Open the project directory in your preferred code editor or IDE.
+   Open the project directory in Android Studio.
 
 4. **Install Dependencies**: 
    Run the following command in the terminal to install the project dependencies:
@@ -52,10 +52,8 @@ To begin using the Namada Shielded Expedition App, follow these steps:
    ```
 
 5. **Run the App**: 
-   Connect your Android or iOS device to your machine or launch an emulator. Then, run the following command to build and launch the app:
-   ```
-   flutter run
-   ```
+   On Android Studio, build and launch the app on your amdroid phone (Must enable debugging) or use emulator. 
+  
 
 6. **Explore Features**: 
    Once the app is running, explore the various features it offers including the block explorer, governance proposals, transactions, validators list, and NEBB dashboard.
